@@ -1,0 +1,235 @@
+div {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+/*轮播图开始*/
+.sb-wraper {
+    background: #151259;
+}
+
+.sb-wraper .banner-box {
+    background: url(https://www.gougoujp.com/images/theme/banner_hand.jpg) center top no-repeat;
+}
+
+.banner-box {
+    position: relative;
+}
+.public-box{
+    width: 1200px;
+    margin: 0 auto;
+}
+.head-top{
+    padding-top: 26px;
+}
+img{
+    vertical-align: middle;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.sb-wraper .banner-box .head-top .link_btn {
+    background: #3c75cf;
+}
+.banner-box .head-top .link_btn {
+    float: right;
+    padding: 8px 12px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 7px;
+}
+.banner-box .head-top .link_btn a {
+    background: url(https://www.gougoujp.com/images/theme/icon-register.png) center top no-repeat;
+    color: #fff;
+    display: inline-block;
+    padding: 32px 20px 0;
+}
+a:visited {
+    text-decoration: none;
+}
+.banner-box .head-top .link_btn a.return_btn {
+    background: url(https://www.gougoujp.com/images/theme/icon-return.png) center top no-repeat;
+    border-left: solid 1px #fff;
+}
+.hand-box {
+    background: url(https://www.gougoujp.com/images/theme/nav-bg.png) left top no-repeat;
+    height: 157px;
+    margin-top: 726px;
+}
+.hand-box ul {
+    padding: 0 42px;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+li, ul {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+.hand-box ul li {
+    float: left;
+    margin: 0 30px;
+}
+.hand-box ul li a {
+    font-size: 24px;
+    color: #fff;
+    line-height: 158px;
+}
+/*轮播图结束*/
+
+/*人气手办开始*/
+.hand1 {
+    background: url(https://www.gougoujp.com/images/theme/hand-bg2.jpg) center top no-repeat;
+    margin-bottom: 5px;
+}
+.public-box {
+    width: 1200px;
+    margin: 0 auto;
+}
+.handsbox .ybg1 {
+    background: url(https://www.gougoujp.com/images/theme/hand-title.png) left top no-repeat;
+    height: 95px;
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+    padding-top: 96px;
+    text-shadow: 1px 1px 3px #333;
+}
+.handsbox .ybg2 {
+    background: url(https://www.gougoujp.com/images/theme/hand-center.png) center top repeat-y;
+    overflow: hidden;
+}
+.handsbox .ybg3 {
+    background: url(https://www.gougoujp.com/images/theme/hand-bottom.png) -9px top repeat-y;
+    height: 49px;
+    margin-top: -4px;
+}
+.handwraper {
+    padding: 16px 54px 0;
+}
+.handsbox .ybg2 .row {
+    background: #fff;
+    height: 182px;
+}
+.handwraper .row {
+    overflow: hidden;
+    width: 340px;
+    padding: 10px;
+    margin: 0 4px 4px 0;
+    float: left;
+}
+.handwraper .row .left {
+    overflow: hidden;
+    width: 147px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+.left {
+    float: left;
+}
+.handwraper .row .right {
+    width: 183px;
+}
+.right {
+    float: right;
+}
+.handwraper .row .right ul {
+    width: 200px;
+}
+.handwraper .row .right ul li {
+    float: left;
+    margin: 0 5px 5px 0;
+}
+.handwraper .row .right ul li a {
+    float: left;
+    width: 88px;
+    height: 26px;
+    background: #e5e5e5;
+    text-align: center;
+    line-height: 26px;
+}
+/*人气手办结束*/
+
+/*海贼王开始*/
+.hand2 {
+    background: #151259;
+    margin-bottom: 20px;
+}
+.handswraper {
+    padding: 22px 54px;
+}
+.handswraper ul {
+    padding-left: 26px;
+}
+.handswraper ul li {
+    float: left;
+    width: 329px;
+    margin: 0 26px 26px 0;
+}
+.handswraper ul li img {
+    display: block;
+}
+.handswraper ul li span {
+    color: #fff;
+    background: url(https://www.gougoujp.com/images/theme/hand-btnbg.jpg);
+    height: 73px;
+    width: 329px;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    line-height: 73px;
+}
+
+/*海贼王结束*/
+
+/*底部开始*/
+.handbottom {
+    background: url(https://www.gougoujp.com/images/theme/hand-bgbottom.jpg) center bottom no-repeat;
+    padding-bottom: 245px;
+}
+.handbottom .process-box {
+    background: #5cc7eb;
+    padding: 40px 20px;
+    width: 1112px;
+    margin: 20px auto;
+    border-bottom: solid 22px #4c11c5;
+}
+.handbottom .process-box ul {
+    margin: 0;
+    width: 1150px;
+}
+.handbottom .process-box ul li {
+    margin-right: 24px;
+}
+.process-box li {
+    display: inline-block;
+}
+.handbottom .process-box a {
+    background: url(https://www.gougoujp.com/images/theme/hand-btn.png) center top no-repeat;
+    width: 163px;
+    height: 47px;
+}
+.process-box a {
+    color: #fff;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}
+/*底部结束*/
+
+
+
+
+
+
+
+
